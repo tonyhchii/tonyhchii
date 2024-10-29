@@ -2,6 +2,7 @@
 <h3 align="center"></h3>
 <p align="center">I’m looking for a job opportunity in web development</p>
 <p align="center">Reach me at : <i>tonyhchiii@gmail.com</i></p>
+<p align="center">Please let me know about any Job Opportunities and other project inquiries</p>
 <p align="center">🔭 I’m currently working on projects to build up my experience in web development and going through The Odin Project's curriculum</p>
 
 <h4>Languages</h4>
